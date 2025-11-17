@@ -2020,7 +2020,7 @@ only applies when they are armed with normal swords or weeping blades, and not w
             </selectionEntry>
           </selectionEntries>
           <costs>
-            <cost name="pts" typeId="points" value="3.0"/>
+            <cost name="pts" typeId="points" value="5.0"/>
             <cost name="Warband Rating" typeId="wb-rating" value="0.0"/>
           </costs>
         </selectionEntry>
