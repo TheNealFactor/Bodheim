@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="05ad-b0d8-77a8-2572" name="Ostlanders (1a)" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="05ad-b0d8-77a8-2572" name="Ostlanders (1a)" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="99" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <publications>
     <publication id="42ce-e25d-7713-b46b" name="Ostlanders Rules" shortName="Ostlanders" publisher="https://broheim.net/downloads/warbands/official/Ostlanders.pdf" publisherUrl="https://broheim.net/downloads/warbands/official/Ostlanders.pdf"/>
   </publications>

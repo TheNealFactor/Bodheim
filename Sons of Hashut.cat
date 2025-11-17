@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="false" id="cd0a-cc34-9315-94b7" name="Sons of Hashut" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue library="false" id="cd0a-cc34-9315-94b7" name="Sons of Hashut" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="99" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <rules>
     <rule name="Hard Head" id="99c6-f9b5-ef8e-6c4a" hidden="false">
       <description>Chaos Dwarfs ignore the special rules for maces, clubs, etc. They are not easy to knock out!</description>

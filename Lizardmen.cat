@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="0845-6af8-5c39-3866ce12-79a1-424c-bda6" name="Lizardmen (1b)" revision="10" battleScribeVersion="2.03" authorName="David Brown" authorContact="Twitter: @dabrown_us" authorUrl="http://dabrown.us" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="0845-6af8-5c39-3866ce12-79a1-424c-bda6" name="Lizardmen (1b)" revision="10" battleScribeVersion="2.03" authorName="David Brown" authorContact="Twitter: @dabrown_us" authorUrl="http://dabrown.us" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="99" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <selectionEntries>
     <selectionEntry id="889151de-4826-5f00-5dbb-fcf546ebedbb" name="Kroxigor" page="0" hidden="false" collective="false" import="true" type="model">
       <constraints>

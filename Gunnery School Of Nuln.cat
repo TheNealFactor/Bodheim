@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="9fda-1198-8b84-972e" name="Gunnery School Of Nuln (1b)" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="9fda-1198-8b84-972e" name="Gunnery School Of Nuln (1b)" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="99" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <comment>The province of Nuln is respected across the Empire as the home to the finest handguns and war machines, save for those constructed by the Dwarfs.
 This makes them a desired commodity for any Imperial army using cannonry and as such graduates from the Imperial Gunnery School are highly prized for their skills in training artillery on vulnerable targets with unerring accuracy and maintaining the war machines.
 Perhaps the most surprising fact is that the Imperial Gunnery School does not create new weapons of war.

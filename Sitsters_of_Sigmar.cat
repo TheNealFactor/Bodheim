@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="c6b6bbc1-2d97-0206-16d1-5845aabffac4" name="Sisters of Sigmar (1a)" revision="10" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="c6b6bbc1-2d97-0206-16d1-5845aabffac4" name="Sisters of Sigmar (1a)" revision="10" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="99" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <selectionEntries>
     <selectionEntry id="83ab8692-01da-65c5-af52-a55d4800f012" name="Augur" page="0" hidden="false" collective="false" import="true" type="model">
       <constraints>
