@@ -687,7 +687,7 @@ ignores the special rules for Animosity.</description>
         </selectionEntry>
       </selectionEntries>
       <costs>
-        <cost name="pts" typeId="points" value="3"/>
+        <cost name="pts" typeId="points" value="5"/>
         <cost name="Warband Rating" typeId="wb-rating" value="0"/>
       </costs>
     </selectionEntry>
