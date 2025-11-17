@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="65788600-7fa0-eb7c-b1a3-36d0c3c506c6" name="Witch Hunters (1a)" revision="9" battleScribeVersion="2.03" library="false" gameSystemId="9481a749-7900-614b-1695-bdc2899069c1" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="65788600-7fa0-eb7c-b1a3-36d0c3c506c6" name="Witch Hunters (1a)" revision="9" battleScribeVersion="2.03" library="false" gameSystemId="11111111-2222-3333-4444-555555555555" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <selectionEntries>
     <selectionEntry id="074d9cc5-ab18-5302-91eb-29f4f9d61bcc" name="Flagellants" page="0" hidden="false" collective="false" import="true" type="model">
       <constraints>
