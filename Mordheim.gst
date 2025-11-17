@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="9481a749-7900-614b-1695-bdc2899069c1" name="Mordheim" revision="15" battleScribeVersion="2.03" authorName="James" xmlns="http://www.battlescribe.net/schema/gameSystemSchema" type="gameSystem">
+<gameSystem id="9481a749-7900-614b-1695-bdc2899069c1" name="Bodheim - Custom" revision="15" battleScribeVersion="2.03" authorName="James" xmlns="http://www.battlescribe.net/schema/gameSystemSchema" type="gameSystem">
   <costTypes>
     <costType id="points" name="pts" defaultCostLimit="0" hidden="false"/>
     <costType id="wb-rating" name="Warband Rating" defaultCostLimit="-1" hidden="false"/>
@@ -77,6 +77,6 @@
     </forceEntry>
   </forceEntries>
   <publications>
-    <publication name="GitHub" hidden="false" id="ff7c-2cb8-2105-563f" publisherUrl="https://github.com/BSData/mordheim"/>
+    <publication name="GitHub" hidden="false" id="ff7c-2cb8-2105-563f" publisherUrl="https://github.com/TheNealFactor/Bodheim"/>
   </publications>
 </gameSystem>
